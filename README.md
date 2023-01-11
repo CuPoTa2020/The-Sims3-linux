@@ -35,7 +35,9 @@ Now you can launch installer and wait until setup is finished. If installation i
 
 ### Launch the game
 
-Now you may pick new wine version. Note that using DXVK requiring two libraries in your system. Of you can disable DXVK in runner options
+Now you may pick new wine version. Also change *executable* to `/drive_c/Program Files (x86)/Electronic Arts/The Sims 3/Game/Bin/TS3W.exe`
+
+Note that using DXVK requiring two libraries in your system. Of you can disable DXVK in runner options
 
 For nvidia:
 

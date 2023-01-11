@@ -55,3 +55,12 @@ For radeon:
 
 
 If you don't have sound in game, make sure you install `libpulse` and `lib32-libpulse` libraries
+
+
+### Changing the language
+
+If you want to change language open *Wine registry* by clicking wine icon at the bottom of Lutris and go to:
+
+```HKEY_LOCAL_MACHINE/Software/Wow6432Node/Sims```
+
+You need to change *Locale* file in each expansion folder (for example, English is en-US, Russian is ru-RU, German is de-DE, Spanish is es-ES)
